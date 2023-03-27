@@ -1,0 +1,13 @@
+<diagram program="umletino" version="15.1"><zoom_level>11</zoom_level><element><id>UMLClass</id><coordinates><x>110</x><y>154</y><w>110</w><h>33</h></coordinates><panel_attributes>main()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>308</x><y>264</y><w>198</w><h>242</h></coordinates><panel_attributes>Bil
+--
+fabrikat:str
+color:str
+lager:int
+--
+_init_constructor()
+setFabrikat( str )
+getFabrikat() : str
+setColor( str )
+getColor() : str
+getLager() : int</panel_attributes><additional_attributes></additional_attributes></element></diagram>
